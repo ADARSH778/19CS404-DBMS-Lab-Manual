@@ -234,6 +234,8 @@ WHERE phone NOT IN (
 
 *Output:*
 
+![DBMS EXP-5](https://github.com/user-attachments/assets/25641270-a077-48fc-8636-27bcd0cd50e6)
+
 
 *Question 10*
 
